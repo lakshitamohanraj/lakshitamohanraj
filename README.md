@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQENwowrL6I_EA/profile-displaybackgroundimage-shrink_350_1400/0/1711526181309?e=1717027200&v=beta&t=DEQgKrtmaDeNthhmBykPrskuwh9VXQ3-J27mfm4xLhY)]
+![MasterHead](https://media.licdn.com/dms/image/D5616AQENwowrL6I_EA/profile-displaybackgroundimage-shrink_350_1400/0/1711526181309?e=1717027200&v=beta&t=DEQgKrtmaDeNthhmBykPrskuwh9VXQ3-J27mfm4xLhY)
 
 <h1 align="center">Hi 👋, I'm Lakshita Mohanraj</h1>
 <h3 align="center">A passionate Web Developer with Aspiring Data Scientist Student</h3>

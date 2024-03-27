@@ -1,4 +1,4 @@
-[![MasterHead](https://www.elearningnews.it/_resources/images/articoli/Immagini_OK_512x268/corso-online-dinamico.jpg)]
+[![MasterHead](https://www.elearningnews.it/_resources/images/articoli/Immagini_OK_512x268/corso-online-dinamico.jpg)
 
 <h1 align="center">Hi 👋, I'm Lakshita Mohanraj</h1>
 <h3 align="center">A passionate Web Developer with Aspiring Data Scientist Student</h3>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter , Angular**
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
+- 👯 I’m looking to collaborate on **Spring Boot Projects**
 
 - 📫 How to reach me **lakshitamohanraj20@gmail.com**
 
